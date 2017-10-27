@@ -1,0 +1,2 @@
+### Sitio Web
+el sitio Web que se llevara acabo sera one page con estilo visual de los 80 utilizando framework y contendra la pagina de inicio con una descripcion breve del proyecto y las pestañas de opciones de navegacion de la pagina que seran galeria 3D, making of, contacto y galeria.
