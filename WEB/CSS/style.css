@@ -1,0 +1,33 @@
+:root{
+    --font-main: 'Jockey One', sans-serif;
+    --main-color: #000000; 
+    --font-size:16px;
+    --color2: #f1184e; 
+    --bg-color: #1cceee; 
+    --color4: #16df27;
+
+
+}
+html{
+    font-size: var(--font-size);
+    font-family: var(--font-main);
+    
+}
+ 
+.Header { background-color: var(--main-color); }
+
+.logo img { max-height: 64px; }
+
+
+@media screen and (min-width: 37.5em) {
+    
+    }
+    
+    /* large > 992px */
+    @media screen and (min-width: 62em) {
+    
+    }
+    
+    /* extralarge > 1200px */
+    @media screen and (min-width: 75em) {
+    }
